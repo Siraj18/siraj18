@@ -1,5 +1,5 @@
 ## Hello there, I'm Siraj!
-### Бэкэнд разработчик
+### Фулстэк разработчик
 
 ### Languages and tools
 ![C#](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.net)
